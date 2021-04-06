@@ -1,11 +1,11 @@
-! Simple Blocklist for Google tracking
-! Use with caution as you may be using these APIs.
+# Simple Blocklist for Google tracking
+# Use with caution as you may be using these APIs.
 
-app-measurement.com
-google-analytics.com
-googlepais.com
-mobilenetworkscoring-pa.googleapis.com
-play.googlepais.com
-ssl.google-analytics.com
-www.googlepais.com
-youtubei.googleapis.com
+127.0.0.1 app-measurement.com
+127.0.0.1 google-analytics.com
+127.0.0.1 googlepais.com
+127.0.0.1 mobilenetworkscoring-pa.googleapis.com
+127.0.0.1 play.googlepais.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 www.googlepais.com
+127.0.0.1 youtubei.googleapis.com
